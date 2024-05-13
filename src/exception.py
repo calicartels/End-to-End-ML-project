@@ -9,7 +9,7 @@
 # writing our own custom exceptions : 
 
 import sys
-import logging
+from src.logger import logging
 # sys library provides for any exception that python throws at you.
 # we create a execption handling/ error handling function in python that is based off of sys.
 
